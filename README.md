@@ -4,7 +4,16 @@ A comprehensive cross-platform mobile application built with Flutter that helps 
 
 
 ## 📱 Screenshots
-
+<p align="center">
+  <img src="screenshots/empty_home.png" width="250" />
+  <img src="screenshots/home.jpeg" width="250" />
+  <img src="screenshots/add_medicine.jpeg" width="250" />
+  <img src="screenshots/alarm_screen.jpeg" width="250" />
+  <img src="screenshots/notifications.jpeg" width="250" />
+  <img src="screenshots/deactive.jpeg" width="250" />
+  <img src="screenshots/set_time.jpeg" width="250" />
+  <img src="screenshots/user_info.jpeg" width="250" />
+</p>
 
 
 ## ✨ Features
