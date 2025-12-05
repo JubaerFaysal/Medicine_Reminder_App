@@ -9,7 +9,7 @@ A comprehensive cross-platform mobile application built with Flutter that helps 
   <img src="assets/screenshots/home.jpeg" width="250" />
   <img src="assets/screenshots/add_medicine.jpeg" width="250" />
   <img src="assets/screenshots/alarm_screen.jpeg" width="250" />
-  <img src="assets/screenshots/notifications.jpeg" width="250" />
+  <img src="assets/screenshots/notification.jpeg" width="250" />
   <img src="assets/screenshots/deactive.jpeg" width="250" />
   <img src="assets/screenshots/set_time.jpeg" width="250" />
   <img src="assets/screenshots/user_info.jpeg" width="250" />
@@ -191,7 +191,7 @@ DELETE /medicine-reminder/:id      # Delete medicine
 
 **Your Name**
 - GitHub: [JubaerFaysal](https://github.com/JubaerFaysal)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/jubaer-ahmed-faysal/)
+- LinkedIn: [Jubaer Ahmed Faysal](https://www.linkedin.com/in/jubaer-ahmed-faysal/)
 - Email: jubaerfaysal@gmail.com
 
 
